@@ -1,0 +1,22 @@
+/* controls how the related component looks */
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #174b73, #246b78);
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+  margin-bottom: 12px;
+}
+
+p {
+  font-size: 18px;
+  opacity: 0.85;
+}
